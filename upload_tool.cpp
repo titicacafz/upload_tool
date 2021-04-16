@@ -200,7 +200,7 @@ void run()
             upload_dir = SystemUtil::get_date(-1);
         }  
         else
-        {//指定日期
+        {//指定目录
             upload_dir = upload_type;
         }
 
